@@ -3,9 +3,9 @@ application created with authentication using (useContext)
 
 #Install app
 
-1 - [ https://github.com/rd-easy/auth-app.git ]
+1 - git clone https://github.com/rd-easy/auth-app.git
 
-2 - [cd auth-app && yarn install]
+2 - cd auth-app && yarn install
 
 3 - expo start or yarn(npm) start
 
