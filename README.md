@@ -1,17 +1,18 @@
 # auth-app
-application created with authentication using (useContext) 
 
-#Install app
+<h2>Application created with authentication using <strog>(useContext)<strong> </h2>
 
-1 - git clone https://github.com/rd-easy/auth-app.git
+<h2>Install app</h2>
 
-2 - cd auth-app && yarn install
+<p>git clone https://github.com/rd-easy/auth-app.git</p>
 
-3 - expo start or yarn(npm) start
+<p>cd auth-app && npm install <strong>(ou yarn add)</strong></p>
+
+<p>expo start or yarn(npm) start</p>
 
 
 
 
-Application created with authentication using the HOOK(useContext) react-native
+<h2>Application created with authentication using the <strong>HOOK(useContext)</strong> react-native</h2>
 
-Autenticação no React Native / ReactJS com Context API & Hooks | Masterclass #12 https://youtu.be/KISMYYXSIX8 - Rocketseat
+ <a href="https://youtu.be/KISMYYXSIX8">Autenticação no React Native / ReactJS com Context API & Hooks | Masterclass #12 - Rocketseat</a>
